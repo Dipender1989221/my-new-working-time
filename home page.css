@@ -1,0 +1,95 @@
+.div1
+{
+    position: relative;
+}
+ .head1
+ {
+    background-color: black;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+ }
+ .phone_icon1
+ {
+     margin-left: 80px;
+ }
+ .upper_icon
+ {
+     
+     float: right ;
+     margin-right: 10px;
+     color: red;
+ }
+ .nav
+ {
+     display: inline;
+     background-color: rgb(218, 184, 184);
+     height: 40px; 
+     border-radius: 50rem;
+     margin-top: -19px;
+ }
+ .nav li
+ {
+     padding-left: 60px;
+     padding-top: 3px;
+ }
+ .nav li a
+ {
+     text-decoration: none;
+     color: black;
+     border-width: 5px;
+ }
+.nav li a:hover
+{
+   color: gray;
+   cursor: pointer;
+}
+.iframe
+{
+    width: 50px;
+}
+.div_maharishi
+{
+    margin-left: 100px;
+    text-align: justify;
+}
+.maharishi
+{
+    color: rgb(139, 1, 1);
+    font-weight: bolder;
+}
+.bg_img
+{
+    background-image: url(assets/gallery/background.PNG);
+    margin-left: -5px;
+} 
+.chancellore
+{
+    margin-top: 150px;
+    color: white;
+}
+.chancellore h3
+{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.my_btn1
+{
+    background-color: rgb(223, 5, 5);
+    border: 0px;
+    border-radius: 2px;
+    text-transform: capitalize;
+}
+.news
+{
+    text-align: center;
+}
+.news h3
+{
+    font-weight: bolder;
+    color: rgb(172, 0, 0);
+}
+.card h5
+{
+    color: rgb(189, 1, 1);
+}
